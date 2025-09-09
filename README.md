@@ -115,6 +115,7 @@
 - [Punycode Converter](https://www.charset.org/punycode)
 - [PHPBrew](https://github.com/phpbrew/phpbrew) - менеджер версий PHP
 - [Composer](https://getcomposer.org/) - менеджер зависимостей PHP
+- [BxSync1C](https://github.com/MashinaMashina/bx_1c_sync) - эмулятор обмена с 1С
 
 ## <a id="php-libs">Библиотеки PHP</a>
 В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
